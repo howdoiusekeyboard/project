@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "risk_level": "medium",
+    "draft_response": "We understand that you deposited $200 via Skrill 3 days ago and it still hasn't appeared in your account, which can be frustrating. Our team is here to help resolve this issue. We will investigate this matter further to determine the cause of the delay. Please allow us to look into this and we will be in touch with an update.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 2,
+    "risk_level": "low",
+    "draft_response": "Deriv MT5 and Deriv X are two different platforms offered by Deriv, each with its own unique features and benefits. Deriv MT5 is a popular trading platform that offers a wide range of financial instruments, while Deriv X is a more advanced platform designed for experienced traders. We can provide more information on the differences between these platforms to help you decide which one best suits your needs. Our team is available to answer any questions you may have about these platforms.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 3,
+    "risk_level": "high",
+    "draft_response": "I understand that having your account suspended can be frustrating and I'm here to help you investigate the issue. Please be assured that we take these matters seriously and will work with you to identify the reason for the suspension. Can you please confirm your account details with me so I can look into this further? I will do my best to provide you with more information about your account status.",
+    "drafting_mode": "individual"
+  },
+  {
+    "id": 4,
+    "risk_level": "medium",
+    "draft_response": "We apologize that you are considering closing your account and withdrawing all remaining funds. We want to ensure that you have a positive experience with Deriv, and if there's anything we can do to change your mind, please let us know. If you still wish to proceed, we can guide you through the process of closing your account and withdrawing your funds. Please note that we will need to verify some information to complete your request.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 5,
+    "risk_level": "medium",
+    "draft_response": "We appreciate your interest in trading cryptocurrencies on Deriv. As you are based in Germany, we need to ensure that you comply with local regulations and Deriv's terms and conditions. Our team can provide you with more information on the availability of cryptocurrency trading in your region and any specific requirements that may apply. We are here to help you navigate our platform and ensure that you have a smooth trading experience.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 6,
+    "risk_level": "low",
+    "draft_response": "We regret to hear that the Deriv Bot stopped working mid-session, which may have resulted in financial losses. We understand how frustrating this can be and want to help resolve the issue. Our team will investigate the incident to determine the cause and see what can be done to prevent such incidents in the future. Please provide us with more details about the incident so we can assist you further.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 7,
+    "risk_level": "low",
+    "draft_response": "We are happy to help you with setting a stop-loss on a multiplier contract. A stop-loss is an essential risk management tool that can help limit potential losses. Our team can provide you with step-by-step instructions on how to set a stop-loss on our platform. If you have any questions or need further assistance, please don't hesitate to ask and we'll be happy to guide you through the process.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 8,
+    "risk_level": "medium",
+    "draft_response": "We understand that you accidentally sent funds to the wrong internal account, which can be a distressing experience. Our team is here to help resolve this issue as soon as possible. We will investigate the incident to determine the best course of action and see what can be done to rectify the situation. Please provide us with more details about the incident, including the accounts involved and the amount transferred.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 9,
+    "risk_level": "high",
+    "draft_response": "We understand that you're experiencing frustration with your trading experience on our platform and appreciate you bringing this to our attention. We take all concerns seriously and would like to assist you in resolving any issues you've encountered. Our dedicated support team is here to listen and help address your concerns in a fair and transparent manner. Please allow us to investigate the matter further and provide a more detailed response.",
+    "drafting_mode": "individual"
+  },
+  {
+    "id": 10,
+    "risk_level": "low",
+    "draft_response": "We apologize that you are experiencing difficulties uploading your proof of identity due to issues with the file upload button on Safari. We want to ensure that you can complete the verification process smoothly. Our team can provide alternative solutions, such as using a different browser or uploading your documents via email. We are here to help you resolve this issue and complete your account verification.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 11,
+    "risk_level": "medium",
+    "draft_response": "We appreciate your efforts in referring friends to Deriv and apologize that your affiliate commission has not been paid yet. Our team will investigate this matter to determine the cause of the delay. We will review your referral records and ensure that you receive the compensation you are entitled to. Please allow us to look into this and we will be in touch with an update.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 12,
+    "risk_level": "low",
+    "draft_response": "We are happy to provide information on the leverage available for gold trading on standard accounts. Leverage can vary depending on the account type and market conditions. Our team can provide you with the most up-to-date information on the leverage available for gold trading on our platform. If you have any further questions or need assistance with setting up a gold trade, please don't hesitate to ask.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 13,
+    "risk_level": "medium",
+    "draft_response": "We regret to hear that you have been charged an inactivity fee despite logging in last week, which you believe may be a system error. We understand your concern and want to help resolve this issue. Our team will investigate the matter to determine the cause of the fee and see what can be done to rectify the situation. Please provide us with more details about your account activity so we can assist you further.",
+    "drafting_mode": "batched"
+  },
+  {
+    "id": 14,
+    "risk_level": "critical",
+    "draft_response": "We understand the urgency and frustration you're experiencing with your pending withdrawal, and we're here to help you resolve this issue. Our team is working diligently to process all withdrawal requests in a timely manner, and we appreciate your patience during this time. Please know that we're taking your concerns seriously and will do our best to provide an update on the status of your withdrawal. You can also check your account dashboard for any updates or notifications regarding your withdrawal request.",
+    "drafting_mode": "individual"
+  },
+  {
+    "id": 15,
+    "risk_level": "medium",
+    "draft_response": "We appreciate your interest in knowing whether Deriv is regulated in South Africa, as this is important for your tax purposes. Our team can provide you with documentation and information on our regulatory status in South Africa. We are committed to transparency and compliance with local regulations, and we will be happy to provide you with the necessary documents for your tax advisor. Please let us know what specific information you need, and we will do our best to assist you.",
+    "drafting_mode": "batched"
+  }
+]

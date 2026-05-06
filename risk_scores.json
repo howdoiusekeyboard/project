@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "risk_level": "medium",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=payments, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 2,
+    "risk_level": "low",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=product_query, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 3,
+    "risk_level": "high",
+    "triggering_criteria": [
+      "account suspension or frozen funds",
+      "urgent withdrawal or access-to-funds issue"
+    ],
+    "rationale": "Account suspension without a chargeback/legal threat and urgent language"
+  },
+  {
+    "id": 4,
+    "risk_level": "medium",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=account, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 5,
+    "risk_level": "medium",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=compliance, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 6,
+    "risk_level": "low",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=technical, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 7,
+    "risk_level": "low",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=product_query, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 8,
+    "risk_level": "medium",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=payments, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 9,
+    "risk_level": "high",
+    "triggering_criteria": [
+      "accusation of scam or fraud",
+      "urgent withdrawal or access-to-funds issue"
+    ],
+    "rationale": "Explicit scam accusation with urgent refund demand but no chargeback/legal threat"
+  },
+  {
+    "id": 10,
+    "risk_level": "low",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=technical, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 11,
+    "risk_level": "medium",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=payments, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 12,
+    "risk_level": "low",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=product_query, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 13,
+    "risk_level": "medium",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=account, no Stage 2 review (category != escalation and not flagged)."
+  },
+  {
+    "id": 14,
+    "risk_level": "critical",
+    "triggering_criteria": [
+      "chargeback intent",
+      "urgent withdrawal or access-to-funds issue",
+      "loss of funds claim"
+    ],
+    "rationale": "Explicit chargeback threat combined with urgent withdrawal language and direct loss-of-funds claim"
+  },
+  {
+    "id": 15,
+    "risk_level": "medium",
+    "triggering_criteria": [],
+    "rationale": "Default mapping: category=compliance, no Stage 2 review (category != escalation and not flagged)."
+  }
+]

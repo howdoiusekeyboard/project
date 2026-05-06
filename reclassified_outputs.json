@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "category": "payments",
+    "confidence": 0.92,
+    "needs_human_review": false,
+    "reason": "The message specifically mentions a deposit and an issue with funds not appearing in the account."
+  },
+  {
+    "id": 2,
+    "category": "product_query",
+    "confidence": 0.95,
+    "needs_human_review": false,
+    "reason": "The message is asking for a comparison between two specific products offered by the platform."
+  },
+  {
+    "id": 3,
+    "category": "escalation",
+    "confidence": 0.88,
+    "needs_human_review": false,
+    "reason": "The account suspension and urgent resolution request indicate a need for immediate attention or escalation."
+  },
+  {
+    "id": 4,
+    "category": "account",
+    "confidence": 0.85,
+    "needs_human_review": false,
+    "reason": "The message is about closing an account and withdrawing funds, which pertains to account management."
+  },
+  {
+    "id": 5,
+    "category": "compliance",
+    "confidence": 0.9,
+    "needs_human_review": false,
+    "reason": "The message inquires about trading capabilities based on geographical location, which is a compliance issue."
+  },
+  {
+    "id": 6,
+    "category": "technical",
+    "confidence": 0.89,
+    "needs_human_review": false,
+    "reason": "The issue described involves a platform feature (Deriv Bot) malfunctioning, indicating a technical problem."
+  },
+  {
+    "id": 7,
+    "category": "product_query",
+    "confidence": 0.91,
+    "needs_human_review": false,
+    "reason": "The message asks for information on how to use a specific feature (stop-loss) of a product."
+  },
+  {
+    "id": 8,
+    "category": "payments",
+    "confidence": 0.86,
+    "needs_human_review": false,
+    "reason": "The message involves an issue with transferring funds to the wrong account, which is a payment issue."
+  },
+  {
+    "id": 9,
+    "category": "escalation",
+    "confidence": 0.8,
+    "needs_human_review": true,
+    "reason": "The message expresses dissatisfaction and demands a refund, indicating a need for urgent resolution but also ambiguity regarding the exact category."
+  },
+  {
+    "id": 10,
+    "category": "technical",
+    "confidence": 0.93,
+    "needs_human_review": false,
+    "reason": "The issue described involves a platform feature (file upload button) not working, indicating a technical problem."
+  },
+  {
+    "id": 11,
+    "category": "payments",
+    "confidence": 0.87,
+    "needs_human_review": false,
+    "reason": "The message involves an issue with receiving payment (affiliate commission), which is a payment issue."
+  },
+  {
+    "id": 12,
+    "category": "product_query",
+    "confidence": 0.94,
+    "needs_human_review": false,
+    "reason": "The message inquires about a specific detail (leverage) of a product (gold trading)."
+  },
+  {
+    "id": 13,
+    "category": "account",
+    "confidence": 0.84,
+    "needs_human_review": false,
+    "reason": "The message involves an issue with account fees, which pertains to account management."
+  },
+  {
+    "id": 14,
+    "category": "payments",
+    "confidence": 0.89,
+    "needs_human_review": false,
+    "reason": "The message involves an issue with a withdrawal, which is a payment issue."
+  },
+  {
+    "id": 15,
+    "category": "compliance",
+    "confidence": 0.92,
+    "needs_human_review": false,
+    "reason": "The message inquires about the platform's regulatory status in a specific jurisdiction, which is a compliance issue."
+  }
+]

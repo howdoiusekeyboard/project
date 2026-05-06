@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "payments",
+    "risk_level": "medium",
+    "team": "Payments Support",
+    "sla": "4 hours",
+    "escalation_path": "Payments Lead -> Finance Operations"
+  },
+  {
+    "id": 2,
+    "category": "product_query",
+    "risk_level": "low",
+    "team": "Product Support",
+    "sla": "12 hours",
+    "escalation_path": "Product Specialist -> Product Manager"
+  },
+  {
+    "id": 3,
+    "category": "escalation",
+    "risk_level": "high",
+    "team": "Senior Escalation Desk",
+    "sla": "2 hours",
+    "escalation_path": "Escalation Manager -> Head of Customer Operations"
+  },
+  {
+    "id": 4,
+    "category": "account",
+    "risk_level": "medium",
+    "team": "Account Operations",
+    "sla": "8 hours",
+    "escalation_path": "Account Manager -> Customer Success Lead"
+  },
+  {
+    "id": 5,
+    "category": "compliance",
+    "risk_level": "medium",
+    "team": "Compliance & Regulatory",
+    "sla": "24 hours",
+    "escalation_path": "Compliance Officer -> Legal"
+  },
+  {
+    "id": 6,
+    "category": "technical",
+    "risk_level": "low",
+    "team": "Technical Support",
+    "sla": "8 hours",
+    "escalation_path": "Tech Lead -> Engineering On-Call"
+  },
+  {
+    "id": 7,
+    "category": "product_query",
+    "risk_level": "low",
+    "team": "Product Support",
+    "sla": "12 hours",
+    "escalation_path": "Product Specialist -> Product Manager"
+  },
+  {
+    "id": 8,
+    "category": "payments",
+    "risk_level": "medium",
+    "team": "Payments Support",
+    "sla": "4 hours",
+    "escalation_path": "Payments Lead -> Finance Operations"
+  },
+  {
+    "id": 9,
+    "category": "escalation",
+    "risk_level": "high",
+    "team": "Senior Escalation Desk",
+    "sla": "2 hours",
+    "escalation_path": "Escalation Manager -> Head of Customer Operations"
+  },
+  {
+    "id": 10,
+    "category": "technical",
+    "risk_level": "low",
+    "team": "Technical Support",
+    "sla": "8 hours",
+    "escalation_path": "Tech Lead -> Engineering On-Call"
+  },
+  {
+    "id": 11,
+    "category": "payments",
+    "risk_level": "medium",
+    "team": "Payments Support",
+    "sla": "4 hours",
+    "escalation_path": "Payments Lead -> Finance Operations"
+  },
+  {
+    "id": 12,
+    "category": "product_query",
+    "risk_level": "low",
+    "team": "Product Support",
+    "sla": "12 hours",
+    "escalation_path": "Product Specialist -> Product Manager"
+  },
+  {
+    "id": 13,
+    "category": "account",
+    "risk_level": "medium",
+    "team": "Account Operations",
+    "sla": "8 hours",
+    "escalation_path": "Account Manager -> Customer Success Lead"
+  },
+  {
+    "id": 14,
+    "category": "payments",
+    "risk_level": "critical",
+    "team": "Payments Support",
+    "sla": "30 minutes",
+    "escalation_path": "Payments Lead -> Finance Operations"
+  },
+  {
+    "id": 15,
+    "category": "compliance",
+    "risk_level": "medium",
+    "team": "Compliance & Regulatory",
+    "sla": "24 hours",
+    "escalation_path": "Compliance Officer -> Legal"
+  }
+]

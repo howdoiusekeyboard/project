@@ -1,0 +1,8 @@
+{
+  "prior_corrections_loaded": true,
+  "prior_corrections_count": 75,
+  "few_shot_eligible_count": 0,
+  "source": "corrections.jsonl",
+  "used_for_initial_few_shot": false,
+  "timestamp": "2026-05-06T04:16:48.980524+00:00"
+}

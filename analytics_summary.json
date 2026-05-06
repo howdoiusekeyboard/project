@@ -1,0 +1,41 @@
+{
+  "total_messages": 15,
+  "category_distribution": {
+    "payments": 4,
+    "product_query": 3,
+    "account": 3,
+    "compliance": 2,
+    "technical": 2,
+    "escalation": 1
+  },
+  "average_confidence": 0.908,
+  "risk_tier_breakdown": {
+    "medium": 7,
+    "low": 5,
+    "high": 2,
+    "critical": 1
+  },
+  "flagged_for_human_review": 0,
+  "operator_corrections": {
+    "accepted": 0,
+    "corrected": 0,
+    "skipped": 15
+  },
+  "accuracy": {
+    "labeled_count": 0,
+    "accuracy_before": null,
+    "accuracy_after": null,
+    "accuracy_delta": null,
+    "note": "no operator-provided labels (all skipped)"
+  },
+  "most_common_operator_correction": null,
+  "compliance": {
+    "checked": 15,
+    "passed": 6,
+    "failed": 9,
+    "violation_distribution": {
+      "promise": 9,
+      "liability_admission": 2
+    }
+  }
+}

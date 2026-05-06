@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "category": "payments",
+    "confidence": 0.92,
+    "needs_human_review": false,
+    "reason": "User is inquiring about a delayed deposit."
+  },
+  {
+    "id": 2,
+    "category": "product_query",
+    "confidence": 0.85,
+    "needs_human_review": false,
+    "reason": "User is asking for a product comparison."
+  },
+  {
+    "id": 3,
+    "category": "account",
+    "confidence": 0.95,
+    "needs_human_review": false,
+    "reason": "User's account has been suspended and they are seeking resolution."
+  },
+  {
+    "id": 4,
+    "category": "account",
+    "confidence": 0.9,
+    "needs_human_review": false,
+    "reason": "User wants to close their account and withdraw funds."
+  },
+  {
+    "id": 5,
+    "category": "compliance",
+    "confidence": 0.88,
+    "needs_human_review": false,
+    "reason": "User is inquiring about regional trading restrictions."
+  },
+  {
+    "id": 6,
+    "category": "technical",
+    "confidence": 0.89,
+    "needs_human_review": false,
+    "reason": "Deriv Bot stopped working mid-session, causing potential losses."
+  },
+  {
+    "id": 7,
+    "category": "product_query",
+    "confidence": 0.91,
+    "needs_human_review": false,
+    "reason": "User needs assistance with setting a stop-loss on a multiplier contract."
+  },
+  {
+    "id": 8,
+    "category": "payments",
+    "confidence": 0.93,
+    "needs_human_review": false,
+    "reason": "User accidentally sent funds to the wrong internal account."
+  },
+  {
+    "id": 9,
+    "category": "escalation",
+    "confidence": 0.96,
+    "needs_human_review": false,
+    "reason": "User is accusing the platform of being a scam and demanding a full refund."
+  },
+  {
+    "id": 10,
+    "category": "technical",
+    "confidence": 0.87,
+    "needs_human_review": false,
+    "reason": "User is experiencing a technical issue with the file upload button."
+  },
+  {
+    "id": 11,
+    "category": "payments",
+    "confidence": 0.89,
+    "needs_human_review": false,
+    "reason": "User's affiliate commission has not been paid."
+  },
+  {
+    "id": 12,
+    "category": "product_query",
+    "confidence": 0.9,
+    "needs_human_review": false,
+    "reason": "User is inquiring about available leverage for gold trading."
+  },
+  {
+    "id": 13,
+    "category": "account",
+    "confidence": 0.92,
+    "needs_human_review": false,
+    "reason": "User is disputing an inactivity fee charge."
+  },
+  {
+    "id": 14,
+    "category": "payments",
+    "confidence": 0.94,
+    "needs_human_review": false,
+    "reason": "User's withdrawal has been pending for an extended period."
+  },
+  {
+    "id": 15,
+    "category": "compliance",
+    "confidence": 0.91,
+    "needs_human_review": false,
+    "reason": "User is inquiring about regulatory documentation for tax purposes."
+  }
+]

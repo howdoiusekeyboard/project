@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "passed": false,
+    "violations": [
+      "promise"
+    ],
+    "evidence": "We will investigate this matter further to determine the cause of the delay. | keyword hits: 'will'",
+    "recommended_fix": "We are looking into this issue to understand the cause of the delay.",
+    "keyword_hits": [
+      "will"
+    ],
+    "needs_human_review": true
+  },
+  {
+    "id": 2,
+    "passed": true,
+    "violations": [
+      "none"
+    ],
+    "evidence": "",
+    "recommended_fix": "",
+    "keyword_hits": [],
+    "needs_human_review": false
+  },
+  {
+    "id": 3,
+    "passed": false,
+    "violations": [
+      "promise"
+    ],
+    "evidence": "I will do my best to provide you with more information about your account status. | keyword hits: 'will'",
+    "recommended_fix": "We will provide you with information about your account status.",
+    "keyword_hits": [
+      "will"
+    ],
+    "needs_human_review": true
+  },
+  {
+    "id": 4,
+    "passed": false,
+    "violations": [
+      "promise"
+    ],
+    "evidence": "keyword hits: 'will'",
+    "recommended_fix": "",
+    "keyword_hits": [
+      "will"
+    ],
+    "needs_human_review": true
+  },
+  {
+    "id": 5,
+    "passed": true,
+    "violations": [
+      "none"
+    ],
+    "evidence": "",
+    "recommended_fix": "",
+    "keyword_hits": [],
+    "needs_human_review": false
+  },
+  {
+    "id": 6,
+    "passed": false,
+    "violations": [
+      "liability_admission",
+      "promise"
+    ],
+    "evidence": "We regret to hear that the Deriv Bot stopped working mid-session, which may have resulted in financial losses. | keyword hits: 'will'",
+    "recommended_fix": "We are aware that the Deriv Bot stopped working mid-session and are here to help resolve the issue.",
+    "keyword_hits": [
+      "will"
+    ],
+    "needs_human_review": true
+  },
+  {
+    "id": 7,
+    "passed": true,
+    "violations": [
+      "none"
+    ],
+    "evidence": "",
+    "recommended_fix": "",
+    "keyword_hits": [],
+    "needs_human_review": false
+  },
+  {
+    "id": 8,
+    "passed": false,
+    "violations": [
+      "promise"
+    ],
+    "evidence": "We will investigate the incident to determine the best course of action and see what can be done to rectify the situation. | keyword hits: 'will'",
+    "recommended_fix": "We are investigating the incident to understand the best course of action.",
+    "keyword_hits": [
+      "will"
+    ],
+    "needs_human_review": true
+  },
+  {
+    "id": 9,
+    "passed": true,
+    "violations": [
+      "none"
+    ],
+    "evidence": "",
+    "recommended_fix": "",
+    "keyword_hits": [],
+    "needs_human_review": false
+  },
+  {
+    "id": 10,
+    "passed": true,
+    "violations": [
+      "none"
+    ],
+    "evidence": "",
+    "recommended_fix": "",
+    "keyword_hits": [],
+    "needs_human_review": false
+  },
+  {
+    "id": 11,
+    "passed": false,
+    "violations": [
+      "promise"
+    ],
+    "evidence": "We will review your referral records and ensure that you receive the compensation you are entitled to. | keyword hits: 'will'",
+    "recommended_fix": "We are reviewing your referral records to determine the cause of the delay.",
+    "keyword_hits": [
+      "will"
+    ],
+    "needs_human_review": true
+  },
+  {
+    "id": 12,
+    "passed": true,
+    "violations": [
+      "none"
+    ],
+    "evidence": "",
+    "recommended_fix": "",
+    "keyword_hits": [],
+    "needs_human_review": false
+  },
+  {
+    "id": 13,
+    "passed": false,
+    "violations": [
+      "liability_admission",
+      "promise"
+    ],
+    "evidence": "We regret to hear that you have been charged an inactivity fee despite logging in last week, which you believe may be a system error. | keyword hits: 'will'",
+    "recommended_fix": "We are aware that you have been charged an inactivity fee and are here to help resolve the issue.",
+    "keyword_hits": [
+      "will"
+    ],
+    "needs_human_review": true
+  },
+  {
+    "id": 14,
+    "passed": false,
+    "violations": [
+      "promise"
+    ],
+    "evidence": "We will do our best to provide an update on the status of your withdrawal. | keyword hits: 'will'",
+    "recommended_fix": "We are working to provide an update on the status of your withdrawal.",
+    "keyword_hits": [
+      "will"
+    ],
+    "needs_human_review": true
+  },
+  {
+    "id": 15,
+    "passed": false,
+    "violations": [
+      "promise"
+    ],
+    "evidence": "keyword hits: 'will'",
+    "recommended_fix": "",
+    "keyword_hits": [
+      "will"
+    ],
+    "needs_human_review": true
+  }
+]
